@@ -1,0 +1,5 @@
+# こちらののテキストを新規で作成したrequirements.txtにコピペして保存
+numpy==1.19.5
+pandas==1.3.5
+streamlit==0.89.0
+matplotlib == 3.2.2
